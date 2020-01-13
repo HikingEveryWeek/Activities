@@ -232,7 +232,7 @@ stat.df = cbind(name=rownames(stat.df), 活动=stat.df, 活动次数=freq[rownames(sta
                 同行人数=person.freq[rownames(stat.df)])
 stat.df = cbind(stat.df, 
   关系图=sprintf("https://github.com/HikingEveryWeek/Activities/tree/master/Summay_2019/Interaction/%s.jpeg",rownames(stat.df)),
-  关系表=sprintf("https://github.com/HikingEveryWeek/Activities/tree/master/Summay_019/Interaction_table/%s.txt",rownames(stat.df))
+  关系表=sprintf("https://github.com/HikingEveryWeek/Activities/tree/master/Summay_2019/Interaction_table/%s.txt",rownames(stat.df))
   )
 stat.df.1 = stat.df[,c(1,2,4,6,7,8)]
 colnames(stat.df.1) = c("名字","活动","活动次数","同行人数","同行人图片","同行人表格")
