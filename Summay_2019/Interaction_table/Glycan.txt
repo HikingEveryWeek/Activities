@@ -1,0 +1,14 @@
+"source"	"target"	"time"
+"Glycan"	"Elaine"	1
+"Glycan"	"joy"	1
+"Glycan"	"Kenny"	1
+"Glycan"	"Lynn Gao"	1
+"Glycan"	"阿木"	1
+"Glycan"	"蓓"	1
+"Glycan"	"灯火"	1
+"Glycan"	"迦南"	1
+"Glycan"	"刘乔花"	1
+"Glycan"	"流花"	1
+"Glycan"	"热心市民黄先生"	1
+"Glycan"	"沈凯"	1
+"Glycan"	"雨宙"	1

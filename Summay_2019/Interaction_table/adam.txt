@@ -1,0 +1,20 @@
+"source"	"target"	"time"
+"adam"	"Hilda Chai"	1
+"adam"	"Jean"	1
+"adam"	"Lin"	1
+"adam"	"Xidi"	1
+"adam"	"阿木"	1
+"adam"	"蓓"	1
+"adam"	"船长韦伯"	1
+"adam"	"冬非东"	1
+"adam"	"蒋泽龙"	1
+"adam"	"林冬洁"	1
+"adam"	"刘石洋子"	1
+"adam"	"满口袋的风"	1
+"adam"	"墨白"	1
+"adam"	"沈凯"	1
+"adam"	"兮照"	1
+"adam"	"肖龙权"	1
+"adam"	"萧云"	1
+"adam"	"小雅"	1
+"adam"	"岳志慧"	1

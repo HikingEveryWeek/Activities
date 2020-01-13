@@ -1,0 +1,24 @@
+"source"	"target"	"time"
+"L"	"chengxc"	2
+"L"	"Anna"	1
+"L"	"bjergsen"	1
+"L"	"Erai"	1
+"L"	"Gina"	1
+"L"	"Jack"	1
+"L"	"L 'sir"	1
+"L"	"Lee小红"	1
+"L"	"Lilah"	1
+"L"	"Rachel"	1
+"L"	"Yang"	1
+"L"	"彬"	1
+"L"	"光芒"	1
+"L"	"后知后觉"	1
+"L"	"建豪"	1
+"L"	"林冬洁"	1
+"L"	"琳"	1
+"L"	"欧"	1
+"L"	"巧云"	1
+"L"	"邱"	1
+"L"	"瑞秋"	1
+"L"	"小乔"	1
+"L"	"笑脸表情"	1

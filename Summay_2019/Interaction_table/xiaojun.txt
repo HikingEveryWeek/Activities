@@ -1,0 +1,15 @@
+"source"	"target"	"time"
+"xiaojun"	"DC"	1
+"xiaojun"	"Diana úß"	1
+"xiaojun"	"Jack"	1
+"xiaojun"	"Memor_Y"	1
+"xiaojun"	"VivianÖí"	1
+"xiaojun"	"»Û½Ü½Ü"	1
+"xiaojun"	"Åí¹âÃ÷"	1
+"xiaojun"	"ÈôÁÚ"	1
+"xiaojun"	"Ğ¡Î¢"	1
+"xiaojun"	"Ğ¦"	1
+"xiaojun"	"Ô¬²©¿­"	1
+"xiaojun"	"Ô¬ÅÎÅÎ"	1
+"xiaojun"	"ÕÅÉı"	1
+"xiaojun"	"×©ĞÄ"	1

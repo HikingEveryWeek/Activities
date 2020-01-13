@@ -1,0 +1,10 @@
+"source"	"target"	"time"
+"Gu"	"chengxc"	1
+"Gu"	"linji"	1
+"Gu"	"Rimon"	1
+"Gu"	"SemaroO"	1
+"Gu"	"°®éÏé­@"	1
+"Gu"	"´óÁ³Ã¨°®³ÔÓã"	1
+"Gu"	"»ÆÈğÃô"	1
+"Gu"	"Ğ¤ÁúÈ¨"	1
+"Gu"	"ÑîÆ½¾²"	1

@@ -1,0 +1,15 @@
+"source"	"target"	"time"
+"VivianÖí"	"DC"	1
+"VivianÖí"	"Diana úß"	1
+"VivianÖí"	"Jack"	1
+"VivianÖí"	"Memor_Y"	1
+"VivianÖí"	"xiaojun"	1
+"VivianÖí"	"»Û½Ü½Ü"	1
+"VivianÖí"	"Åí¹âÃ÷"	1
+"VivianÖí"	"ÈôÁÚ"	1
+"VivianÖí"	"Ğ¡Î¢"	1
+"VivianÖí"	"Ğ¦"	1
+"VivianÖí"	"Ô¬²©¿­"	1
+"VivianÖí"	"Ô¬ÅÎÅÎ"	1
+"VivianÖí"	"ÕÅÉı"	1
+"VivianÖí"	"×©ĞÄ"	1

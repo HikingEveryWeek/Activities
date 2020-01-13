@@ -1,0 +1,14 @@
+"source"	"target"	"time"
+"felikex"	"8¶Ö"	1
+"felikex"	"chengxc"	1
+"felikex"	"ruiwen"	1
+"felikex"	"İí"	1
+"felikex"	"åÈÄÏ"	1
+"felikex"	"Ã¢¹û"	1
+"felikex"	"ÄÏÉ½"	1
+"felikex"	"Ê«İæÒÀÃÎ"	1
+"felikex"	"Íã¶¹"	1
+"felikex"	"Î¬ÏÍ"	1
+"felikex"	"ÓÀ»Û"	1
+"felikex"	"×íÇå·ã"	1
+"felikex"	"×ó½Å´©ÓÒ½Å"	1

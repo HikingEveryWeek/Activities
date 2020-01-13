@@ -1,0 +1,22 @@
+"source"	"target"	"time"
+"youngpeople"	"52HZ"	1
+"youngpeople"	"A萍"	1
+"youngpeople"	"big bear"	1
+"youngpeople"	"Double"	1
+"youngpeople"	"Dubhe"	1
+"youngpeople"	"Dylan"	1
+"youngpeople"	"Fancy"	1
+"youngpeople"	"linji"	1
+"youngpeople"	"Rimon"	1
+"youngpeople"	"yanshu"	1
+"youngpeople"	"彬"	1
+"youngpeople"	"黄文垚"	1
+"youngpeople"	"蓝鲸"	1
+"youngpeople"	"南山"	1
+"youngpeople"	"彭德才"	1
+"youngpeople"	"邱"	1
+"youngpeople"	"夏天的夏"	1
+"youngpeople"	"小乔"	1
+"youngpeople"	"叶子"	1
+"youngpeople"	"尹一"	1
+"youngpeople"	"永慧"	1

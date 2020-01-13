@@ -1,0 +1,16 @@
+"source"	"target"	"time"
+"Tammy"	"+"	1
+"Tammy"	"Jack"	1
+"Tammy"	"joy"	1
+"Tammy"	"Linny"	1
+"Tammy"	"Ney"	1
+"Tammy"	"Rebecca_H"	1
+"Tammy"	"Rimon"	1
+"Tammy"	"Stars"	1
+"Tammy"	"Vince"	1
+"Tammy"	"zyw"	1
+"Tammy"	"∞Î…Ω"	1
+"Tammy"	"…Ω’‰∫£Œ∂"	1
+"Tammy"	" ¢œƒ"	1
+"Tammy"	"–‹"	1
+"Tammy"	"—©Ωø"	1

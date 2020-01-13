@@ -1,0 +1,11 @@
+"source"	"target"	"time"
+"GY"	"Hilda Chai"	1
+"GY"	"Jack"	1
+"GY"	"joy"	1
+"GY"	"Lucy"	1
+"GY"	"°λΙ½"	1
+"GY"	"έν"	1
+"GY"	"²θΔΰ±Ό±Ό"	1
+"GY"	"³ΒΌªΟι"	1
+"GY"	"³Ι†΄"	1
+"GY"	"½―ΤσΑϊ"	1

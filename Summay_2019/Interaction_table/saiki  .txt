@@ -1,0 +1,7 @@
+"source"	"target"	"time"
+"saiki  "	"Xidi"	1
+"saiki  "	"±ò"	1
+"saiki  "	"·ÛË¢½³"	1
+"saiki  "	"ÅíÎµ"	1
+"saiki  "	"ÍõµÂÁú"	1
+"saiki  "	"Íõºè·¢"	1

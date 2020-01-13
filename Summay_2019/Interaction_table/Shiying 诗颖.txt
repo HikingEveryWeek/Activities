@@ -1,0 +1,16 @@
+"source"	"target"	"time"
+"Shiying Ê«Ó±"	"Amy Feng"	1
+"Shiying Ê«Ó±"	"big bear"	1
+"Shiying Ê«Ó±"	"Chris"	1
+"Shiying Ê«Ó±"	"Dubhe"	1
+"Shiying Ê«Ó±"	"Fang_Zzz"	1
+"Shiying Ê«Ó±"	"±ò"	1
+"Shiying Ê«Ó±"	"¹¬²ØÒ»µ¶"	1
+"Shiying Ê«Ó±"	"»ÆÞÈÇ¿"	1
+"Shiying Ê«Ó±"	"ÀîÏ£"	1
+"Shiying Ê«Ó±"	"Æß·ÖÊì"	1
+"Shiying Ê«Ó±"	"ÈýÒ¶"	1
+"Shiying Ê«Ó±"	"Ê«Ãô"	1
+"Shiying Ê«Ó±"	"Ë³È»"	1
+"Shiying Ê«Ó±"	"Ò¦½¡"	1
+"Shiying Ê«Ó±"	"ÓàÁÖ·É"	1

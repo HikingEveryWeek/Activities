@@ -5,9 +5,8 @@ output:
     df_print: paged
 ---
 
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
 ### init environment
-
-```{r, echo=FALSE, message=FALSE}
 # load library
 suppressPackageStartupMessages(library(xlsx))  # Reading xlsx
 suppressPackageStartupMessages(library(RColorBrewer)) # Select color set
@@ -51,7 +50,7 @@ colnames(data) = sapply(colnames(data), function(s){
 })
 
 # explore data
-head(data)
+data
 ```
 
 #### corrected person name
@@ -65,15 +64,16 @@ head(data)
   data[data=="Sherry"] = "sherry"
 ```
 
-### Activity Summary
+
 ```{r, echo=FALSE, message=FALSE}
+### Activity Summary
 v = unlist(data); v=v[v!=""]  # 总活动人次
 Numbers = apply(data, 2, function(s){sum(s!="")})  #每月活动人次
 ```
 ### 活动统计
-```{r, echo=FALSE, message=FALSE}
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
 jpeg(paste(graphDir,"Summary.jpeg",sep="/"), height=1680, width=960, quality=100)
-  par(mai = c(0.42,3,0.82,0.42))
+  par(mai = c(0.42,3,0.42,0.42))
   a = barplot(Numbers, main=sprintf("1~12月\n%d次活动；%d人; %d人次",
                                     ncol(data),length(unique(v)),sum(Numbers)),
               xlab="人数", las=2, col=col, horiz=TRUE, cex.lab=0.2, xlim=c(0,40))
@@ -83,10 +83,37 @@ jpeg(paste(graphDir,"Summary.jpeg",sep="/"), height=1680, width=960, quality=100
 ```
 ![](./Figure/Summary.jpeg)
 
+### 活动区域分布
+```{r, echo=FALSE, message=FALSE}
+par(mfrow=c(1,2))
+# Region
+  location = colnames(data)
+  shenzhen = grep(pattern="[塘莲羊梅梧峦蛇娘湾明银迎看澜冲]", location)
+  shenzhen = c(shenzhen, grep("东湖",location))
+  hongkong = c(grep(pattern="[蒲麦丫径涧]", location),grep("大东山",location))
+  remote = setdiff(1:length(location),c(shenzhen,hongkong))
+  x = c(深圳=length(shenzhen), 香港=length(hongkong), 其他=length(remote))
+  a = barplot(x,horiz=FALSE, xlab="组织次数", las=2, ylim=c(0,70))
+  text(y=x, x=a, labels=x, pos=1)
+  
+# SubRegion
+  meihou = colnames(data)[grep("梅.?后",colnames(data))]
+  tanglang = colnames(data)[grep("塘",colnames(data))]
+  wutong = colnames(data)[grep("梧",colnames(data))]
+  maijing = colnames(data)[grep("麦",colnames(data))]
+  dongxichong = colnames(data)[grep("东西",colnames(data))]
+  
+  x = c(梅林后山=length(meihou), 塘朗=length(tanglang), 梧桐=length(wutong),
+            麦理浩径=length(maijing), 东西冲=length(dongxichong))
+  x = sort(x, decreasing=FALSE)
+  a = barplot(x,horiz=FALSE, xlab="组织次数", las=2)
+  text(y=x, x=a, labels=x, pos=1)
+```
+
 #### 个人统计
 
 ##### 每人参加活动次数
-```{r, echo=FALSE, message=FALSE}
+```{r, echo=FALSE, message=FALSE, warning=FALSE, strip.white=TRUE}
 # 统计
 # person
 freq = sort(table(v), decreasing=TRUE)
@@ -109,8 +136,8 @@ result.df
 # 作图
 freq.v = freq[length(freq):1]
 names(freq.v) = paste(length(freq.v):1, names(freq.v), sep="  ")
-jpeg("Figure/personActivities.jpeg", height=10000, width=1024, quality=100)
-par(mai = c(0.42,2,0.82,3))
+jpeg("Figure/personActivities.jpeg", height=8000, width=1024, quality=100)
+par(mai = c(0,2,0,3))
 b = barplot(freq.v, ylab="times", las=2,
         cex.lab=0.2, xlim=c(0,80), horiz=TRUE)
 text(y=b, x=freq.v, labels = freq.v, col="black",adj=c(1,0.5))

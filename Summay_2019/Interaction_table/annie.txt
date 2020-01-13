@@ -1,0 +1,12 @@
+"source"	"target"	"time"
+"annie"	"Laughing"	1
+"annie"	"Lisa"	1
+"annie"	"阿平"	1
+"annie"	"刘盛"	1
+"annie"	"媚"	1
+"annie"	"南山"	1
+"annie"	"邱"	1
+"annie"	"王帅"	1
+"annie"	"王欣"	1
+"annie"	"夕梦"	1
+"annie"	"岳志慧"	1

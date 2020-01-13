@@ -1,0 +1,14 @@
+"source"	"target"	"time"
+"Lynn Gao"	"Elaine"	1
+"Lynn Gao"	"Glycan"	1
+"Lynn Gao"	"joy"	1
+"Lynn Gao"	"Kenny"	1
+"Lynn Gao"	"阿木"	1
+"Lynn Gao"	"蓓"	1
+"Lynn Gao"	"灯火"	1
+"Lynn Gao"	"迦南"	1
+"Lynn Gao"	"刘乔花"	1
+"Lynn Gao"	"流花"	1
+"Lynn Gao"	"热心市民黄先生"	1
+"Lynn Gao"	"沈凯"	1
+"Lynn Gao"	"雨宙"	1

@@ -1,0 +1,14 @@
+"source"	"target"	"time"
+"Riean"	"Benny"	1
+"Riean"	"new"	1
+"Riean"	"Sandy"	1
+"Riean"	"YuryÑãæÂ"	1
+"Riean"	"µ°µ°"	1
+"Riean"	"·¿"	1
+"Riean"	"Æ®¶ù"	1
+"Riean"	"Ê«Ó±"	1
+"Riean"	"ÙâÕÕ"	1
+"Riean"	"Ğ¡Ìú"	1
+"Riean"	"ÑîÇ¿"	1
+"Riean"	"ÑîĞÀ"	1
+"Riean"	"ÓĞÔµÈË"	1

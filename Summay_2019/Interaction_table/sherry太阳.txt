@@ -1,0 +1,17 @@
+"source"	"target"	"time"
+"sherryÌ«Ñô"	"H"	1
+"sherryÌ«Ñô"	"LRF"	1
+"sherryÌ«Ñô"	"Rebecca_H"	1
+"sherryÌ«Ñô"	"sherry"	1
+"sherryÌ«Ñô"	"stars"	1
+"sherryÌ«Ñô"	"»ÆÍñ"	1
+"sherryÌ«Ñô"	"¿ÉÀÖ"	1
+"sherryÌ«Ñô"	"ÁÖ¶¬½à"	1
+"sherryÌ«Ñô"	"ÁõãåÓê"	1
+"sherryÌ«Ñô"	"ÂŞÊ«Ãô"	1
+"sherryÌ«Ñô"	"Ä¾Ä¾"	1
+"sherryÌ«Ñô"	"ÅËÔ¾³å"	1
+"sherryÌ«Ñô"	"Çñ"	1
+"sherryÌ«Ñô"	"ÍõºÆ"	1
+"sherryÌ«Ñô"	"ÎäÖÜÓª"	1
+"sherryÌ«Ñô"	"ÒüÒ»"	1

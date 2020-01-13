@@ -1,0 +1,17 @@
+"source"	"target"	"time"
+"Jodie¼Ñ"	"Ben"	1
+"Jodie¼Ñ"	"double"	1
+"Jodie¼Ñ"	"In"	1
+"Jodie¼Ñ"	"mingzi"	1
+"Jodie¼Ñ"	"orange"	1
+"Jodie¼Ñ"	"sallyË¼³Î"	1
+"Jodie¼Ñ"	"sherly"	1
+"Jodie¼Ñ"	"sky"	1
+"Jodie¼Ñ"	"°¢Ä¾"	1
+"Jodie¼Ñ"	"Ýí"	1
+"Jodie¼Ñ"	"²èÄà±¼±¼"	1
+"Jodie¼Ñ"	"åÈÄÏ"	1
+"Jodie¼Ñ"	"Íß¶û¶«"	1
+"Jodie¼Ñ"	"Ð¤ÁúÈ¨"	1
+"Jodie¼Ñ"	"ÓêÖæ"	1
+"Jodie¼Ñ"	"Óý»·"	1

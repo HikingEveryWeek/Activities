@@ -1,0 +1,47 @@
+"source"	"target"	"time"
+"big bear"	"±ò"	3
+"big bear"	"Chris"	2
+"big bear"	"Dubhe"	2
+"big bear"	"¹¬²ØÒ»µ¶"	2
+"big bear"	"»ÆŞÈÇ¿"	2
+"big bear"	"ÄÏÉ½"	2
+"big bear"	"Çñ"	2
+"big bear"	"Ë³È»"	2
+"big bear"	"Ğ¡ÇÇ"	2
+"big bear"	"Ò¶×Ó"	2
+"big bear"	"ÓÀ»Û"	2
+"big bear"	"52HZ"	1
+"big bear"	"Amy Feng"	1
+"big bear"	"Amy feng "	1
+"big bear"	"april"	1
+"big bear"	"AÆ¼"	1
+"big bear"	"Double"	1
+"big bear"	"Dylan"	1
+"big bear"	"Fancy"	1
+"big bear"	"Fang_Zzz"	1
+"big bear"	"linji"	1
+"big bear"	"LRF"	1
+"big bear"	"Rimon"	1
+"big bear"	"Shiying Ê«Ó±"	1
+"big bear"	"yanshu"	1
+"big bear"	"youngpeople"	1
+"big bear"	"³Ì"	1
+"big bear"	"³ÌÁú"	1
+"big bear"	"»ÆÎÄˆ"	1
+"big bear"	"½¯ÔóÁú"	1
+"big bear"	"¿ÉÀÖ¼Ó±ù"	1
+"big bear"	"À¶¾¨"	1
+"big bear"	"ÀîÏ£"	1
+"big bear"	"Á÷»¨"	1
+"big bear"	"Âí¶¡"	1
+"big bear"	"Ä¾Ä¾"	1
+"big bear"	"ÅíµÂ²Å"	1
+"big bear"	"Æß·ÖÊì"	1
+"big bear"	"ÇàÓñ"	1
+"big bear"	"ÈıÒ¶"	1
+"big bear"	"Ê«Ãô"	1
+"big bear"	"ÏÄÌìµÄÏÄ"	1
+"big bear"	"ÑÕ"	1
+"big bear"	"Ò¦½¡"	1
+"big bear"	"ÒüÒ»"	1
+"big bear"	"ÓàÁÖ·É"	1

@@ -1,0 +1,40 @@
+"source"	"target"	"time"
+"ทาทาZeng"	"chengxc"	2
+"ทาทาZeng"	"X"	2
+"ทาทาZeng"	"ลึฦ๓ถ์"	2
+"ทาทาZeng"	"ีลูป"	2
+"ทาทาZeng"	"Ben"	1
+"ทาทาZeng"	"Cong"	1
+"ทาทาZeng"	"Double"	1
+"ทาทาZeng"	"Focus"	1
+"ทาทาZeng"	"Gwenิ๘ษู"	1
+"ทาทาZeng"	"HH"	1
+"ทาทาZeng"	"Hilda Chai"	1
+"ทาทาZeng"	"Jack"	1
+"ทาทาZeng"	"Jessica"	1
+"ทาทาZeng"	"Kan Ke"	1
+"ทาทาZeng"	"KKzong"	1
+"ทาทาZeng"	"Violet"	1
+"ทาทาZeng"	"Ýํ"	1
+"ทาทาZeng"	"ฑ฿ฝ็ฟอีป"	1
+"ทาทาZeng"	"ฑ๒"	1
+"ทาทาZeng"	"ฒ่ฤเฑผฑผ"	1
+"ทาทาZeng"	"ณษด"	1
+"ทาทาZeng"	"ณฬม๚"	1
+"ทาทาZeng"	"นโรข"	1
+"ทาทาZeng"	"บฮ"	1
+"ทาทาZeng"	"ฝช์๗์ว"	1
+"ทาทาZeng"	"ฝฏิ๓ม๚"	1
+"ทาทาZeng"	"พฐฬฮ"	1
+"ทาทาZeng"	"วาฬýท็า๗"	1
+"ทาทาZeng"	"ฬา"	1
+"ทาทาZeng"	"อ๕็โ Rhapsody"	1
+"ทาทาZeng"	"ฮฤฒ฿ Cai"	1
+"ทาทาZeng"	"ะกลึๆค"	1
+"ทาทาZeng"	"ะกวว"	1
+"ทาทาZeng"	"ะกฬ๚"	1
+"ทาทาZeng"	"ะยะย"	1
+"ทาทาZeng"	"ะý"	1
+"ทาทาZeng"	"ิฌลฮลฮ"	1
+"ทาทาZeng"	"ีโึปึํลถ"	1
+"ทาทาZeng"	"ึวปÛพý"	1

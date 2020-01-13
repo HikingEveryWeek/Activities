@@ -1,0 +1,17 @@
+"source"	"target"	"time"
+"Carmen"	"¡£"	1
+"Carmen"	"A Æ¼"	1
+"Carmen"	"Fancy"	1
+"Carmen"	"GwenÔøÉÙ"	1
+"Carmen"	"liji"	1
+"Carmen"	"Rimon"	1
+"Carmen"	"SayHi"	1
+"Carmen"	"±ò"	1
+"Carmen"	"²Ë²Ë"	1
+"Carmen"	"»ÆÈğÃô"	1
+"Carmen"	"»ÆŞÈÇ¿"	1
+"Carmen"	"åÈÄÏ"	1
+"Carmen"	"ÅíµÂ²Å"	1
+"Carmen"	"ÎÄ¼×"	1
+"Carmen"	"Ğ¡¹ù"	1
+"Carmen"	"ÑîÆ½¾²"	1

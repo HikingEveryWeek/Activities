@@ -1,0 +1,27 @@
+"source"	"target"	"time"
+"SayHi"	"彬"	2
+"SayHi"	"。"	1
+"SayHi"	"A 萍"	1
+"SayHi"	"Carmen"	1
+"SayHi"	"Fancy"	1
+"SayHi"	"Gwen曾少"	1
+"SayHi"	"HEY MAN"	1
+"SayHi"	"Jack"	1
+"SayHi"	"liji"	1
+"SayHi"	"Lisa"	1
+"SayHi"	"Rimon"	1
+"SayHi"	"Zoey"	1
+"SayHi"	"凹凸"	1
+"SayHi"	"菜菜"	1
+"SayHi"	"程小凡"	1
+"SayHi"	"黄瑞敏"	1
+"SayHi"	"黄奕强"	1
+"SayHi"	"迦南"	1
+"SayHi"	"彭德才"	1
+"SayHi"	"肉肉"	1
+"SayHi"	"文甲"	1
+"SayHi"	"兮照"	1
+"SayHi"	"小郭"	1
+"SayHi"	"雅~"	1
+"SayHi"	"杨平静"	1
+"SayHi"	"姚健"	1

@@ -1,0 +1,22 @@
+"source"	"target"	"time"
+"Rachel"	"彬"	2
+"Rachel"	"小乔"	2
+"Rachel"	"Anna"	1
+"Rachel"	"chengxc"	1
+"Rachel"	"Jack"	1
+"Rachel"	"L"	1
+"Rachel"	"L 'sir"	1
+"Rachel"	"Lee小红"	1
+"Rachel"	"Yang"	1
+"Rachel"	"yanshu"	1
+"Rachel"	"阿杰"	1
+"Rachel"	"光芒"	1
+"Rachel"	"后知后觉"	1
+"Rachel"	"建豪"	1
+"Rachel"	"林冬洁"	1
+"Rachel"	"欧"	1
+"Rachel"	"邱"	1
+"Rachel"	"瑞秋"	1
+"Rachel"	"笑脸表情"	1
+"Rachel"	"颜"	1
+"Rachel"	"永慧"	1

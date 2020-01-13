@@ -1,0 +1,17 @@
+"source"	"target"	"time"
+"night"	"Anna"	1
+"night"	"chengxc"	1
+"night"	"chrish_1222"	1
+"night"	"Lulu"	1
+"night"	"ruiwen"	1
+"night"	"sherry"	1
+"night"	"程宝珠"	1
+"night"	"灯火"	1
+"night"	"猴面包树"	1
+"night"	"迦南"	1
+"night"	"胖企鹅"	1
+"night"	"三叶"	1
+"night"	"顺然"	1
+"night"	"肖龙权"	1
+"night"	"叶文滔"	1
+"night"	"尹宁"	1

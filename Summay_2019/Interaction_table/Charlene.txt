@@ -1,0 +1,9 @@
+"source"	"target"	"time"
+"Charlene"	"joy"	1
+"Charlene"	"ruiwen"	1
+"Charlene"	"tammy"	1
+"Charlene"	"°ëÉ½"	1
+"Charlene"	"ÁÖ¶¬"	1
+"Charlene"	"Ä«°×"	1
+"Charlene"	"Å·Âô¸Á"	1
+"Charlene"	"Ê±¼äÖóÓê"	1

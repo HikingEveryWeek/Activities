@@ -1,0 +1,17 @@
+"source"	"target"	"time"
+"sally思澄"	"Ben"	1
+"sally思澄"	"double"	1
+"sally思澄"	"In"	1
+"sally思澄"	"Jodie佳"	1
+"sally思澄"	"mingzi"	1
+"sally思澄"	"orange"	1
+"sally思澄"	"sherly"	1
+"sally思澄"	"sky"	1
+"sally思澄"	"阿木"	1
+"sally思澄"	"蓓"	1
+"sally思澄"	"茶泥奔奔"	1
+"sally思澄"	"迦南"	1
+"sally思澄"	"瓦尔东"	1
+"sally思澄"	"肖龙权"	1
+"sally思澄"	"雨宙"	1
+"sally思澄"	"育环"	1

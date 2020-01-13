@@ -1,0 +1,16 @@
+"source"	"target"	"time"
+"Fang_Zzz"	"Amy Feng"	1
+"Fang_Zzz"	"big bear"	1
+"Fang_Zzz"	"Chris"	1
+"Fang_Zzz"	"Dubhe"	1
+"Fang_Zzz"	"Shiying  ´”±"	1
+"Fang_Zzz"	"±Ú"	1
+"Fang_Zzz"	"π¨≤ÿ“ªµ∂"	1
+"Fang_Zzz"	"ª∆ﬁ»«ø"	1
+"Fang_Zzz"	"¿Óœ£"	1
+"Fang_Zzz"	"∆ﬂ∑÷ Ï"	1
+"Fang_Zzz"	"»˝“∂"	1
+"Fang_Zzz"	" ´√Ù"	1
+"Fang_Zzz"	"À≥»ª"	1
+"Fang_Zzz"	"“¶Ω°"	1
+"Fang_Zzz"	"”‡¡÷∑…"	1

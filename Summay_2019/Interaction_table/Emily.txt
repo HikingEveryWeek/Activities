@@ -1,0 +1,32 @@
+"source"	"target"	"time"
+"Emily"	"Amelie he"	2
+"Emily"	"Candice"	2
+"Emily"	"joy"	2
+"Emily"	"8¶Ö"	1
+"Emily"	"Arvin"	1
+"Emily"	"chengxc"	1
+"Emily"	"Jane Ğ¡½à"	1
+"Emily"	"Laughing"	1
+"Emily"	"Nancy"	1
+"Emily"	"Pher"	1
+"Emily"	"zyw"	1
+"Emily"	"°ëÉ½"	1
+"Emily"	"±ò"	1
+"Emily"	"³Ô¹ÏÉÙÅ®"	1
+"Emily"	"ºÎ"	1
+"Emily"	"»ÆÖÜÖÜ"	1
+"Emily"	"åÈÄÏ"	1
+"Emily"	"¿à¹Ï¾ú"	1
+"Emily"	"ÀèÀè"	1
+"Emily"	"ÁáÁá"	1
+"Emily"	"Ä«°×"	1
+"Emily"	"ÇÉÔÆ"	1
+"Emily"	"ÈÈĞÄÊĞÃñ»ÆÏÈÉú"	1
+"Emily"	"Ï²ÑóÑó"	1
+"Emily"	"Ï¸ĞáÇ¾Ş±"	1
+"Emily"	"Ğ»Ğ¡º®"	1
+"Emily"	"ĞìÀÚ"	1
+"Emily"	"ÓêÖæ"	1
+"Emily"	"ÔÀÖ¾»Û"	1
+"Emily"	"ÕÅË¼ÃÛ´ï"	1
+"Emily"	"×Şè¡Edward"	1

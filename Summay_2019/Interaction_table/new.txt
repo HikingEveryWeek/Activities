@@ -1,0 +1,14 @@
+"source"	"target"	"time"
+"new"	"Benny"	1
+"new"	"Riean"	1
+"new"	"Sandy"	1
+"new"	"YuryÑãæÂ"	1
+"new"	"µ°µ°"	1
+"new"	"·¿"	1
+"new"	"Æ®¶ù"	1
+"new"	"Ê«Ó±"	1
+"new"	"ÙâÕÕ"	1
+"new"	"Ğ¡Ìú"	1
+"new"	"ÑîÇ¿"	1
+"new"	"ÑîĞÀ"	1
+"new"	"ÓĞÔµÈË"	1

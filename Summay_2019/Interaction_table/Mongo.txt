@@ -1,0 +1,15 @@
+"source"	"target"	"time"
+"Mongo"	"Jack"	1
+"Mongo"	"joy"	1
+"Mongo"	"m! ao"	1
+"Mongo"	"Xums"	1
+"Mongo"	"Ya"	1
+"Mongo"	"yanshu"	1
+"Mongo"	"∞À∂Ÿ"	1
+"Mongo"	"≥¬¡·¡·"	1
+"Mongo"	"¡·¡·"	1
+"Mongo"	"√‘_Martin"	1
+"Mongo"	"«Ò"	1
+"Mongo"	"—¯¿÷∂‡"	1
+"Mongo"	"“¶Ω°"	1
+"Mongo"	"“¸“ª"	1

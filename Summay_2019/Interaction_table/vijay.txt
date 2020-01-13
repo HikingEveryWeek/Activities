@@ -1,0 +1,16 @@
+"source"	"target"	"time"
+"vijay"	"8吨"	1
+"vijay"	"April"	1
+"vijay"	"chengxc"	1
+"vijay"	"Chris"	1
+"vijay"	"Dylan"	1
+"vijay"	"ruiwen"	1
+"vijay"	"score"	1
+"vijay"	"彬"	1
+"vijay"	"南山"	1
+"vijay"	"青玉"	1
+"vijay"	"邱"	1
+"vijay"	"徐磊"	1
+"vijay"	"叶子"	1
+"vijay"	"永慧"	1
+"vijay"	"之乎"	1

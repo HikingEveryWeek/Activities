@@ -1,0 +1,16 @@
+"source"	"target"	"time"
+"Yanshu"	"Chengxc"	1
+"Yanshu"	"±ò"	1
+"Yanshu"	"º£½ÇÆßºÅ"	1
+"Yanshu"	"åÈÄÏ"	1
+"Yanshu"	"½ğîÈ"	1
+"Yanshu"	"Àî¾ê¾ê"	1
+"Yanshu"	"Å·"	1
+"Yanshu"	"ÌïÌïÌï"	1
+"Yanshu"	"Íè×Ó"	1
+"Yanshu"	"ÎâÑşµÀ"	1
+"Yanshu"	"Ğ¡ÇÇ"	1
+"Yanshu"	"Ñà×Ó"	1
+"Yanshu"	"Òø½´"	1
+"Yanshu"	"ÒüÒ»"	1
+"Yanshu"	"ÓÀ»Û"	1

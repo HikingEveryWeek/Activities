@@ -1,0 +1,16 @@
+"source"	"target"	"time"
+"Amy Feng"	"big bear"	1
+"Amy Feng"	"Chris"	1
+"Amy Feng"	"Dubhe"	1
+"Amy Feng"	"Fang_Zzz"	1
+"Amy Feng"	"Shiying  ´”±"	1
+"Amy Feng"	"±Ú"	1
+"Amy Feng"	"π¨≤ÿ“ªµ∂"	1
+"Amy Feng"	"ª∆ﬁ»«ø"	1
+"Amy Feng"	"¿Óœ£"	1
+"Amy Feng"	"∆ﬂ∑÷ Ï"	1
+"Amy Feng"	"»˝“∂"	1
+"Amy Feng"	" ´√Ù"	1
+"Amy Feng"	"À≥»ª"	1
+"Amy Feng"	"“¶Ω°"	1
+"Amy Feng"	"”‡¡÷∑…"	1

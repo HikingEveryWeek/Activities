@@ -1,0 +1,14 @@
+"source"	"target"	"time"
+"Irene"	"bug"	1
+"Irene"	"dandelion"	1
+"Irene"	"joy"	1
+"Irene"	"Rebecca_H"	1
+"Irene"	"半山"	1
+"Irene"	"花香"	1
+"Irene"	"黄健文"	1
+"Irene"	"黄婉"	1
+"Irene"	"迦南"	1
+"Irene"	"霜"	1
+"Irene"	"武周营"	1
+"Irene"	"秀"	1
+"Irene"	"仗剑以歌"	1

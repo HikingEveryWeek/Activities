@@ -1,0 +1,17 @@
+"source"	"target"	"time"
+"chrish_1222"	"Anna"	1
+"chrish_1222"	"chengxc"	1
+"chrish_1222"	"Lulu"	1
+"chrish_1222"	"night"	1
+"chrish_1222"	"ruiwen"	1
+"chrish_1222"	"sherry"	1
+"chrish_1222"	"程宝珠"	1
+"chrish_1222"	"灯火"	1
+"chrish_1222"	"猴面包树"	1
+"chrish_1222"	"迦南"	1
+"chrish_1222"	"胖企鹅"	1
+"chrish_1222"	"三叶"	1
+"chrish_1222"	"顺然"	1
+"chrish_1222"	"肖龙权"	1
+"chrish_1222"	"叶文滔"	1
+"chrish_1222"	"尹宁"	1

@@ -1,0 +1,14 @@
+"source"	"target"	"time"
+"gemma"	"Dylan"	1
+"gemma"	"Young精灵"	1
+"gemma"	"蓓"	1
+"gemma"	"彬"	1
+"gemma"	"春天的夏"	1
+"gemma"	"花香"	1
+"gemma"	"晶晶"	1
+"gemma"	"刘加一"	1
+"gemma"	"刘梦英"	1
+"gemma"	"史加欣"	1
+"gemma"	"吴瑶道"	1
+"gemma"	"杨欣"	1
+"gemma"	"永慧"	1

@@ -1,0 +1,33 @@
+"source"	"target"	"time"
+"Memor_Y"	"DC"	2
+"Memor_Y"	"袁博凯"	2
+"Memor_Y"	"袁盼盼"	2
+"Memor_Y"	"bjergsen"	1
+"Memor_Y"	"Crystal 王雅倩"	1
+"Memor_Y"	"diana"	1
+"Memor_Y"	"Diana "	1
+"Memor_Y"	"Fish"	1
+"Memor_Y"	"Jack"	1
+"Memor_Y"	"kevinl"	1
+"Memor_Y"	"ottg"	1
+"Memor_Y"	"Pieces"	1
+"Memor_Y"	"Vivian猪"	1
+"Memor_Y"	"xiaojun"	1
+"Memor_Y"	"蓓"	1
+"Memor_Y"	"陈锦涛"	1
+"Memor_Y"	"慧杰杰"	1
+"Memor_Y"	"雷文智律师"	1
+"Memor_Y"	"李钊萍"	1
+"Memor_Y"	"彭光明"	1
+"Memor_Y"	"若邻"	1
+"Memor_Y"	"若临"	1
+"Memor_Y"	"神仙鱼诶"	1
+"Memor_Y"	"束负木木"	1
+"Memor_Y"	"宋华"	1
+"Memor_Y"	"王浩"	1
+"Memor_Y"	"小微"	1
+"Memor_Y"	"笑"	1
+"Memor_Y"	"张升"	1
+"Memor_Y"	"张岩"	1
+"Memor_Y"	"周鹏"	1
+"Memor_Y"	"砖心"	1

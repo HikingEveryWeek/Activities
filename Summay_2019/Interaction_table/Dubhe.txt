@@ -1,0 +1,35 @@
+"source"	"target"	"time"
+"Dubhe"	"big bear"	2
+"Dubhe"	"彬"	2
+"Dubhe"	"52HZ"	1
+"Dubhe"	"Amy Feng"	1
+"Dubhe"	"A萍"	1
+"Dubhe"	"Chris"	1
+"Dubhe"	"Double"	1
+"Dubhe"	"Dylan"	1
+"Dubhe"	"Fancy"	1
+"Dubhe"	"Fang_Zzz"	1
+"Dubhe"	"linji"	1
+"Dubhe"	"Rimon"	1
+"Dubhe"	"Shiying 诗颖"	1
+"Dubhe"	"yanshu"	1
+"Dubhe"	"youngpeople"	1
+"Dubhe"	"宫藏一刀"	1
+"Dubhe"	"黄文垚"	1
+"Dubhe"	"黄奕强"	1
+"Dubhe"	"蓝鲸"	1
+"Dubhe"	"李希"	1
+"Dubhe"	"南山"	1
+"Dubhe"	"彭德才"	1
+"Dubhe"	"七分熟"	1
+"Dubhe"	"邱"	1
+"Dubhe"	"三叶"	1
+"Dubhe"	"诗敏"	1
+"Dubhe"	"顺然"	1
+"Dubhe"	"夏天的夏"	1
+"Dubhe"	"小乔"	1
+"Dubhe"	"姚健"	1
+"Dubhe"	"叶子"	1
+"Dubhe"	"尹一"	1
+"Dubhe"	"永慧"	1
+"Dubhe"	"余林飞"	1

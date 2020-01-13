@@ -1,0 +1,19 @@
+"source"	"target"	"time"
+"Nancy"	"Amelie he"	1
+"Nancy"	"Candice"	1
+"Nancy"	"chengxc"	1
+"Nancy"	"Emily"	1
+"Nancy"	"joy"	1
+"Nancy"	"Laughing"	1
+"Nancy"	"Pher"	1
+"Nancy"	"zyw"	1
+"Nancy"	"±ò"	1
+"Nancy"	"ºÎ"	1
+"Nancy"	"»ÆÖÜÖÜ"	1
+"Nancy"	"¿à¹Ï¾ú"	1
+"Nancy"	"ÁáÁá"	1
+"Nancy"	"Ä«°×"	1
+"Nancy"	"ĞìÀÚ"	1
+"Nancy"	"ÓêÖæ"	1
+"Nancy"	"ÕÅË¼ÃÛ´ï"	1
+"Nancy"	"×Şè¡Edward"	1

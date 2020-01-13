@@ -1,0 +1,12 @@
+"source"	"target"	"time"
+"Yan"	"LEON"	1
+"Yan"	"Lin"	1
+"Yan"	"Ney"	1
+"Yan"	"Yang"	1
+"Yan"	"阿辉"	1
+"Yan"	"大蒿子"	1
+"Yan"	"黄奕强"	1
+"Yan"	"迦南"	1
+"Yan"	"蒋泽龙"	1
+"Yan"	"小陈"	1
+"Yan"	"新新"	1

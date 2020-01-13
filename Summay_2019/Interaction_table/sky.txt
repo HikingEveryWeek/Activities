@@ -1,0 +1,17 @@
+"source"	"target"	"time"
+"sky"	"Ben"	1
+"sky"	"double"	1
+"sky"	"In"	1
+"sky"	"Jodie¼Ñ"	1
+"sky"	"mingzi"	1
+"sky"	"orange"	1
+"sky"	"sallyË¼³Î"	1
+"sky"	"sherly"	1
+"sky"	"°¢Ä¾"	1
+"sky"	"İí"	1
+"sky"	"²èÄà±¼±¼"	1
+"sky"	"åÈÄÏ"	1
+"sky"	"Íß¶û¶«"	1
+"sky"	"Ğ¤ÁúÈ¨"	1
+"sky"	"ÓêÖæ"	1
+"sky"	"Óı»·"	1

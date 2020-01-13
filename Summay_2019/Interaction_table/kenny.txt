@@ -1,0 +1,14 @@
+"source"	"target"	"time"
+"Kenny"	"Elaine"	1
+"Kenny"	"Glycan"	1
+"Kenny"	"joy"	1
+"Kenny"	"Lynn Gao"	1
+"Kenny"	"阿木"	1
+"Kenny"	"蓓"	1
+"Kenny"	"灯火"	1
+"Kenny"	"迦南"	1
+"Kenny"	"刘乔花"	1
+"Kenny"	"流花"	1
+"Kenny"	"热心市民黄先生"	1
+"Kenny"	"沈凯"	1
+"Kenny"	"雨宙"	1

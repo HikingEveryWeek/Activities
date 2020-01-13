@@ -1,0 +1,8 @@
+"source"	"target"	"time"
+"fancy"	"8吨将军"	1
+"fancy"	"Jack"	1
+"fancy"	"sherry"	1
+"fancy"	"光芒"	1
+"fancy"	"迦南"	1
+"fancy"	"小乔"	1
+"fancy"	"尹一"	1

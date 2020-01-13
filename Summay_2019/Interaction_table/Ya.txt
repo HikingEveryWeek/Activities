@@ -1,0 +1,15 @@
+"source"	"target"	"time"
+"Ya"	"Jack"	1
+"Ya"	"joy"	1
+"Ya"	"m! ao"	1
+"Ya"	"Mongo"	1
+"Ya"	"Xums"	1
+"Ya"	"yanshu"	1
+"Ya"	"°Ë¶Ù"	1
+"Ya"	"³ÂÁáÁá"	1
+"Ya"	"ÁáÁá"	1
+"Ya"	"ÃÔ_Martin"	1
+"Ya"	"Çñ"	1
+"Ya"	"ÑøÀÖ¶à"	1
+"Ya"	"Ò¦½¡"	1
+"Ya"	"ÒüÒ»"	1

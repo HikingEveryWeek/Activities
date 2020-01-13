@@ -1,0 +1,14 @@
+"source"	"target"	"time"
+"Sandy"	"Benny"	1
+"Sandy"	"new"	1
+"Sandy"	"Riean"	1
+"Sandy"	"YuryÑãæÂ"	1
+"Sandy"	"µ°µ°"	1
+"Sandy"	"·¿"	1
+"Sandy"	"Æ®¶ù"	1
+"Sandy"	"Ê«Ó±"	1
+"Sandy"	"ÙâÕÕ"	1
+"Sandy"	"Ğ¡Ìú"	1
+"Sandy"	"ÑîÇ¿"	1
+"Sandy"	"ÑîĞÀ"	1
+"Sandy"	"ÓĞÔµÈË"	1

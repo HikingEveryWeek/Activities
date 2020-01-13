@@ -1,0 +1,11 @@
+"source"	"target"	"time"
+"chenyee"	"Echo"	1
+"chenyee"	"Erai"	1
+"chenyee"	"°¢º½"	1
+"chenyee"	"²ÊÏ¼"	1
+"chenyee"	"À×Ã÷"	1
+"chenyee"	"Ã¨Ç×Ç×"	1
+"chenyee"	"ÇÉÔÆ"	1
+"chenyee"	"óïÉ½Üã"	1
+"chenyee"	"Ğ¡½à"	1
+"chenyee"	"ÑîÀ×"	1

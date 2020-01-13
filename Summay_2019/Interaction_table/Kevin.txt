@@ -1,0 +1,17 @@
+"source"	"target"	"time"
+"Kevin"	"Amelie he"	1
+"Kevin"	"joy"	1
+"Kevin"	"Ling"	1
+"Kevin"	"Linny"	1
+"Kevin"	"Rimon"	1
+"Kevin"	"°ëÉ½"	1
+"Kevin"	"ºÎ"	1
+"Kevin"	"¾°ÌÎ"	1
+"Kevin"	"Áõ¾ü"	1
+"Kevin"	"ÆâÆâ"	1
+"Kevin"	"ÍõÜç"	1
+"Kevin"	"ĞÇĞÇ"	1
+"Kevin"	"ÑàÃ÷"	1
+"Kevin"	"ÓêÖæ"	1
+"Kevin"	"ÖÇ»Û¾ı"	1
+"Kevin"	"ÖìµÏ"	1

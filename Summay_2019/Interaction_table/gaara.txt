@@ -1,0 +1,6 @@
+"source"	"target"	"time"
+"gaara"	"åÈÄÏ"	1
+"gaara"	"Å¶Âó¸Á"	1
+"gaara"	"ÙâÕÕ"	1
+"gaara"	"ÏôÔÆ"	1
+"gaara"	"Ğ¡ÇÇ"	1

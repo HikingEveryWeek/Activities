@@ -1,0 +1,16 @@
+"source"	"target"	"time"
+"Vivia|Captivating"	"DS"	1
+"Vivia|Captivating"	"fkxin"	1
+"Vivia|Captivating"	"Jack"	1
+"Vivia|Captivating"	"Sunny"	1
+"Vivia|Captivating"	"yanshu"	1
+"Vivia|Captivating"	"zZZz"	1
+"Vivia|Captivating"	"±Ú"	1
+"Vivia|Captivating"	"∑ø"	1
+"Vivia|Captivating"	"∫˙À…"	1
+"Vivia|Captivating"	"¡ıæßæß"	1
+"Vivia|Captivating"	"≈∑—Ù…≠"	1
+"Vivia|Captivating"	"–°««"	1
+"Vivia|Captivating"	"–°—©"	1
+"Vivia|Captivating"	"’≈…˝"	1
+"Vivia|Captivating"	"÷‹æ≤"	1

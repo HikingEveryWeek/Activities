@@ -1,0 +1,6 @@
+"source"	"target"	"time"
+"Mingzi"	"joy"	1
+"Mingzi"	"²èÄà±¼±¼"	1
+"Mingzi"	"åÈÄÏ"	1
+"Mingzi"	"Ä¾µ¶ºÌ"	1
+"Mingzi"	"Ğ¡Ìú"	1

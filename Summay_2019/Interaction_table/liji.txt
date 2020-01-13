@@ -1,0 +1,17 @@
+"source"	"target"	"time"
+"liji"	"。"	1
+"liji"	"A 萍"	1
+"liji"	"Carmen"	1
+"liji"	"Fancy"	1
+"liji"	"Gwen曾少"	1
+"liji"	"Rimon"	1
+"liji"	"SayHi"	1
+"liji"	"彬"	1
+"liji"	"菜菜"	1
+"liji"	"黄瑞敏"	1
+"liji"	"黄奕强"	1
+"liji"	"迦南"	1
+"liji"	"彭德才"	1
+"liji"	"文甲"	1
+"liji"	"小郭"	1
+"liji"	"杨平静"	1

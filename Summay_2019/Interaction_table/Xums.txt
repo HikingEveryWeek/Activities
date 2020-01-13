@@ -1,0 +1,15 @@
+"source"	"target"	"time"
+"Xums"	"Jack"	1
+"Xums"	"joy"	1
+"Xums"	"m! ao"	1
+"Xums"	"Mongo"	1
+"Xums"	"Ya"	1
+"Xums"	"yanshu"	1
+"Xums"	"°Ë¶Ù"	1
+"Xums"	"³ÂÁáÁá"	1
+"Xums"	"ÁáÁá"	1
+"Xums"	"ÃÔ_Martin"	1
+"Xums"	"Çñ"	1
+"Xums"	"ÑøÀÖ¶à"	1
+"Xums"	"Ò¦½¡"	1
+"Xums"	"ÒüÒ»"	1

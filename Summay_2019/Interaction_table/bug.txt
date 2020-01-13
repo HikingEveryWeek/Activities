@@ -1,0 +1,14 @@
+"source"	"target"	"time"
+"bug"	"dandelion"	1
+"bug"	"Irene"	1
+"bug"	"joy"	1
+"bug"	"Rebecca_H"	1
+"bug"	"半山"	1
+"bug"	"花香"	1
+"bug"	"黄健文"	1
+"bug"	"黄婉"	1
+"bug"	"迦南"	1
+"bug"	"霜"	1
+"bug"	"武周营"	1
+"bug"	"秀"	1
+"bug"	"仗剑以歌"	1

@@ -1,0 +1,17 @@
+"source"	"target"	"time"
+"sherly"	"Ben"	1
+"sherly"	"double"	1
+"sherly"	"In"	1
+"sherly"	"Jodie¼Ñ"	1
+"sherly"	"mingzi"	1
+"sherly"	"orange"	1
+"sherly"	"sallyË¼³Î"	1
+"sherly"	"sky"	1
+"sherly"	"°¢Ä¾"	1
+"sherly"	"İí"	1
+"sherly"	"²èÄà±¼±¼"	1
+"sherly"	"åÈÄÏ"	1
+"sherly"	"Íß¶û¶«"	1
+"sherly"	"Ğ¤ÁúÈ¨"	1
+"sherly"	"ÓêÖæ"	1
+"sherly"	"Óı»·"	1

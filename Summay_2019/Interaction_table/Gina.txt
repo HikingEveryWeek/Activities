@@ -1,0 +1,8 @@
+"source"	"target"	"time"
+"Gina"	"bjergsen"	1
+"Gina"	"chengxc"	1
+"Gina"	"Erai"	1
+"Gina"	"L"	1
+"Gina"	"Lilah"	1
+"Gina"	"ау"	1
+"Gina"	"гитф"	1

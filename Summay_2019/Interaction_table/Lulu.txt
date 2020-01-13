@@ -1,0 +1,17 @@
+"source"	"target"	"time"
+"Lulu"	"Anna"	1
+"Lulu"	"chengxc"	1
+"Lulu"	"chrish_1222"	1
+"Lulu"	"night"	1
+"Lulu"	"ruiwen"	1
+"Lulu"	"sherry"	1
+"Lulu"	"程宝珠"	1
+"Lulu"	"灯火"	1
+"Lulu"	"猴面包树"	1
+"Lulu"	"迦南"	1
+"Lulu"	"胖企鹅"	1
+"Lulu"	"三叶"	1
+"Lulu"	"顺然"	1
+"Lulu"	"肖龙权"	1
+"Lulu"	"叶文滔"	1
+"Lulu"	"尹宁"	1

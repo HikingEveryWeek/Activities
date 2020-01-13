@@ -1,0 +1,19 @@
+"source"	"target"	"time"
+"Pher"	"Amelie he"	1
+"Pher"	"Candice"	1
+"Pher"	"chengxc"	1
+"Pher"	"Emily"	1
+"Pher"	"joy"	1
+"Pher"	"Laughing"	1
+"Pher"	"Nancy"	1
+"Pher"	"zyw"	1
+"Pher"	"±ò"	1
+"Pher"	"ºÎ"	1
+"Pher"	"»ÆÖÜÖÜ"	1
+"Pher"	"¿à¹Ï¾ú"	1
+"Pher"	"ÁáÁá"	1
+"Pher"	"Ä«°×"	1
+"Pher"	"ĞìÀÚ"	1
+"Pher"	"ÓêÖæ"	1
+"Pher"	"ÕÅË¼ÃÛ´ï"	1
+"Pher"	"×Şè¡Edward"	1

@@ -1,0 +1,12 @@
+"source"	"target"	"time"
+"Zoey"	"HEY MAN"	1
+"Zoey"	"Jack"	1
+"Zoey"	"Lisa"	1
+"Zoey"	"SayHi"	1
+"Zoey"	"∞ºÕπ"	1
+"Zoey"	"±Ú"	1
+"Zoey"	"≥Ã–°∑≤"	1
+"Zoey"	"»‚»‚"	1
+"Zoey"	"Ÿ‚’’"	1
+"Zoey"	"—≈~"	1
+"Zoey"	"“¶Ω°"	1

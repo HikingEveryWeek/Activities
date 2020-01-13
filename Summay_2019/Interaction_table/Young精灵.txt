@@ -1,0 +1,14 @@
+"source"	"target"	"time"
+"Young精灵"	"Dylan"	1
+"Young精灵"	"gemma"	1
+"Young精灵"	"蓓"	1
+"Young精灵"	"彬"	1
+"Young精灵"	"春天的夏"	1
+"Young精灵"	"花香"	1
+"Young精灵"	"晶晶"	1
+"Young精灵"	"刘加一"	1
+"Young精灵"	"刘梦英"	1
+"Young精灵"	"史加欣"	1
+"Young精灵"	"吴瑶道"	1
+"Young精灵"	"杨欣"	1
+"Young精灵"	"永慧"	1
