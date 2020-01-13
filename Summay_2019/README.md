@@ -18,9 +18,9 @@
 * 首先来看一张大图, 看看谁比较闲
 ![](https://github.com/HikingEveryWeek/Activities/blob/master/Summay_2019/Figure/personActivities.jpeg)
 
-> 图对应的表格为 [个人活动统计表](https://github.com/HikingEveryWeek/Activities/blob/master/Summay_2019/Data/personStat.xlsx)
+> 图对应的表格为 [个人活动统计表](https://docs.qq.com/sheet/DUXpnSGN4emtMWWlF?c=A1A0A0)
 
 * 今年跟乔姐一起玩过的人
 ![](https://github.com/HikingEveryWeek/Activities/blob/master/Summay_2019/Interaction/%E5%B0%8F%E4%B9%94.jpeg)
 
-> 人际关系网络图地址可在个人活动统计表里得到
+> 人际关系网络图地址可在[个人活动统计表](https://docs.qq.com/sheet/DUXpnSGN4emtMWWlF?c=A1A0A0)里得到
