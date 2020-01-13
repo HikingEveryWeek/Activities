@@ -1,5 +1,5 @@
-[数据](https://github.com/HikingEveryWeek/Activities/blob/master/Summay_2019/Data/2019_activities.xlsx)
-[代码](https://github.com/HikingEveryWeek/Activities/blob/master/Summay_2019/Report.r)
+[数据](https://github.com/HikingEveryWeek/Activities/blob/master/Summay_2019/Data/2019_activities.xlsx)  
+[代码](https://github.com/HikingEveryWeek/Activities/blob/master/Summay_2019/Report.r)  
 ## 2019年活动总结
 ### 1. 活动总结
 * 今年一共组织了112次活动，一共1341人次，每次活动平均12人，大致符合每次控制16人以内的原则
